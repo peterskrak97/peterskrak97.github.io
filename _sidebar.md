@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
-* [Guide](guide.md "Test")
+* [Home](./)
+* [Post1](./posts/post1.md "Test")
