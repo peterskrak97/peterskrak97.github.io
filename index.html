@@ -10,14 +10,18 @@
       rel="stylesheet"
       href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css"
     />
+    <title>Peter's Blog</title>
   </head>
   <body>
-    <div id="app"></div>
+    <div data-app id="main">Please wait...</div>
     <script>
       window.$docsify = {
-        //...
+        el: '#main',
+        loadSidebar: true,
+        subMaxLevel: 2
       };
     </script>
     <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
   </body>
 </html>
