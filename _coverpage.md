@@ -1,8 +1,10 @@
-# Peter Skrak
+<!-- _coverpage.md -->
 
-> Network Engineer
+# Moj projekt
 
-- CCNP
+> Nějaké stručné shrnutí projektu
 
-[GitHub](https://github.com/peterskrak97)
-[Get Started](#intro)
+- Jedna klíčová vlastnost
+- Další skvělá vlastnost
+
+[Get Started](#main)
