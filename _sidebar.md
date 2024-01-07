@@ -1,3 +1,3 @@
-- [Post1](./posts/post1)
-- [About](./about/index)
-- [Contact](./contact/index)
+- [Home](/)
+- [About](about.md)
+- [Contact](contact.md)
