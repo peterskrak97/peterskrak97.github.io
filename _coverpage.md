@@ -1,15 +1,10 @@
-![logo](_assets/tree.svg)
+![logo](_assets/22469806.jpeg)
 
-# vue-orgchart <small>1.0.0</small>
+# Peter Škrak
 
-> A Vue.js wrapper for OrgChart.js.
+> Network Engineer
 
-- Support import and export JSON
-- Supports exporting chart as a picture
-- Editable Orgchart
-
-
-[GitHub](https://github.com/spiritree/vue-orgchart)
+[GitHub](https://github.com/peterskrak97)
 [Get Started](#vue-orgchart)
 
 
