@@ -1,4 +1,4 @@
-![logo](_assets/22469806.jpeg)
+<img src="_assets/22469806.jpeg" alt="logo" style="border-radius: 50%;">
 
 # Peter Škrak
 
@@ -8,4 +8,4 @@
 [Get Started](#vue-orgchart)
 
 
-![color](#b3daff)
+![color](#081020)
