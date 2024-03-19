@@ -1,3 +1,9 @@
-- [Home](/)
-- [About](about.md)
-- [Contact](contact.md)
+- Getting started
+  - [Quick Start](quickstart)
+  - [Chart Props](props)
+- Charts
+  - [Basic Orgchart](basic)
+  - [Pan/Zoom Orgchart](panzoom)
+  - [Draggable Orgchart](drag)
+  - [Export Picture Orgchart](exportpic)
+  - [Editable Orgchart](edit)

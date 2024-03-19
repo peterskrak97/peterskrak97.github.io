@@ -1,10 +1,16 @@
-<!-- _coverpage.md -->
+![logo](_assets/tree.svg)
 
-# Moj projekt
+# vue-orgchart <small>1.0.0</small>
 
-> Nějaké stručné shrnutí projektu
+> A Vue.js wrapper for OrgChart.js.
 
-- Jedna klíčová vlastnost
-- Další skvělá vlastnost
+- Support import and export JSON
+- Supports exporting chart as a picture
+- Editable Orgchart
 
-[Get Started](#main)
+
+[GitHub](https://github.com/spiritree/vue-orgchart)
+[Get Started](#vue-orgchart)
+
+
+![color](#b3daff)
