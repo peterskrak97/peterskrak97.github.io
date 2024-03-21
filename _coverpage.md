@@ -8,4 +8,4 @@
 [Get Started](#my-blog)
 
 
-![color](#43e0e0)
+![color](#d3d3d3)
