@@ -1,9 +1,9 @@
 - Getting started
-  - [Quick Start](quickstart)
-  - [Chart Props](props)
+  - [Quick Start](quickstart.md)
+  - [Chart Props](props.md)
 - Charts
-  - [Basic Orgchart](basic)
-  - [Pan/Zoom Orgchart](panzoom)
-  - [Draggable Orgchart](drag)
-  - [Export Picture Orgchart](exportpic)
-  - [Editable Orgchart](edit)
+  - [Basic Orgchart](basic.md)
+  - [Pan/Zoom Orgchart](panzoom.md)
+  - [Draggable Orgchart](drag.md)
+  - [Export Picture Orgchart](exportpic.md)
+  - [Editable Orgchart](edit.md)
