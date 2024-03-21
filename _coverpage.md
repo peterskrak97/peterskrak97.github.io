@@ -5,7 +5,7 @@
 > Network Engineer
 
 [GitHub](https://github.com/peterskrak97)
-[Get Started](#vue-orgchart)
+[Get Started](#my-blog)
 
 
-![color](#4383b8)
+![color](#43e0e0)
